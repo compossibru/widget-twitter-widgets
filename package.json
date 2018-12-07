@@ -15,6 +15,12 @@
         }
     ],
     "license": "MIT",
+    "keywords": [
+        "twitter",
+        "composite-ui",
+        "compossibru",
+        "compossibru-widget"
+    ],
     "main": "bundled.js",
     "scripts": {
         "start": "webpack-dev-server --mode development --open --hot",
