@@ -1,4 +1,4 @@
-# widget-twitter-widgets
+# @compossibru/widget-twitter-widgets
 <a href="https://www.npmjs.com/package/@compossibru/widget-twitter-widgets">
     <img alt="npm latest version" src="https://img.shields.io/npm/v/@compossibru/widget-twitter-widgets/latest.svg">
 </a>
