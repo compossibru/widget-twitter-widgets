@@ -1,8 +1,12 @@
 {
     "name": "@compossibru/widget-twitter-widgets",
+    "homepage": "https://github.com/compossibru/widget-twitter-widgets#readme",
     "repository": {
         "type": "git",
         "url": "https://github.com/compossibru/widget-twitter-widgets.git"
+    },
+    "bugs": {
+        "url": "https://github.com/compossibru/widget-twitter-widgets/issues"
     },
     "authors": [
         {
@@ -10,6 +14,7 @@
             "email": "maik.schmidt.hl@gmail.com"
         }
     ],
+    "license": "MIT",
     "main": "bundled.js",
     "scripts": {
         "start": "webpack-dev-server --mode development --open --hot",
