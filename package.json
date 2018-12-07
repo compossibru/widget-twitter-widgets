@@ -21,7 +21,7 @@
         "compossibru",
         "compossibru-widget"
     ],
-    "main": "bundled.js",
+    "main": "dist/bundled.js",
     "scripts": {
         "start": "webpack-dev-server --mode development --open --hot",
         "prebuild": "rm -rf ./dist",
