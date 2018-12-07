@@ -1,5 +1,6 @@
 {
     "name": "@compossibru/widget-twitter-widgets",
+    "description": "compossibru widget wrapper for react-twitter-widgets",
     "homepage": "https://github.com/compossibru/widget-twitter-widgets#readme",
     "repository": {
         "type": "git",
