@@ -6,7 +6,7 @@ const output = {
     filename: 'bundled.js'
 };
 if (process.env.NODE_ENV === 'production') {
-    output.libraryTarget = 'commonjs2';
+    output.libraryTarget = 'commonjs';
 }
 
 module.exports = {
